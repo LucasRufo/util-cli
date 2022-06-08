@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UtilCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "--zip ./teste"
+    }
+  }
+}
